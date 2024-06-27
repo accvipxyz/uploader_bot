@@ -1,1 +1,1 @@
-worker: python uploader.py
+worker: ./start.sh
